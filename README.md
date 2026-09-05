@@ -32,4 +32,3 @@ Importar `ozcarprez/vida-vaquera-norte` y conservar el preset Next.js, con la ra
 ## Próxima etapa
 
 Ampliar fuentes por ciudad, implementar actualización editorial con revisión de fechas, definir contacto comercial y añadir videos propios o autorizados cuando existan. Los logotipos de prospectos de patrocinio no se publican como alianzas confirmadas.
-
